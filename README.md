@@ -1,14 +1,5 @@
-# Missing Maps Users Profiles
+# Missing Maps Users Profiles [![Build Status](https://travis-ci.org/MissingMaps/users.svg?branch=master)](https://travis-ci.org/MissingMaps/users)
 
 This repo contains the *User Page* component of the missingmaps website that are not part of the Jekyll build and can be tested independently. 
 
-## Developing
-```
-npm install
-npm start
-```
-
-## Building
-```
-npm run build
-```
+Please read the [contributing.md] file for more information about filing issues or contributing to the development. 
